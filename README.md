@@ -10,12 +10,10 @@ FGWorkManager is a lightweight, easy-to-use foreground job manager for Flutter. 
   2. **Ignore** – The job is discarded.
 
 ## 📌 Installation
-You can install packages from the command line:
-
-with Flutter:
-
-$  flutter pub add foreground_work_manager
-
+Run the following command to add FGWorkManager to your project:
+```sh
+flutter pub add foreground_work_manager
+```
 
 Import the package:
 ```dart
