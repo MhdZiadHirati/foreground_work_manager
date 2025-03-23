@@ -1,7 +1,10 @@
-## [0.0.2] - 2025-03-23  
+### [0.0.3] - 2025-03-23  
 ### 🎉 Documentation Improvements 
 
-## [0.0.1] - 2025-03-23  
+### [0.0.2] - 2025-03-23  
+### 🎉 Documentation Improvements 
+
+### [0.0.1] - 2025-03-23  
 ### 🎉 Initial Release  
 
 🚀 **FGWorkManager** is now available! A lightweight foreground job manager for Flutter that works out-of-the-box without platform-specific configurations.  
