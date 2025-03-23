@@ -1,7 +1,7 @@
 name: foreground_work_manager
 description: "A Flutter package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/MhdZiadHirati/foreground_work_manager
 
 environment:
   sdk: ^3.6.0
