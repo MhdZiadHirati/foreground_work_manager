@@ -1,5 +1,5 @@
 name: foreground_work_manager
-description: "A Flutter package"
+description: "FGWorkManager is a lightweight, easy-to-use foreground job manager for Flutter. Unlike other background job managers, it does not require complex platform-specific configurations. It ensures that jobs are cached and restored even after app restarts, allowing for a seamless job execution process."
 version: 0.0.1
 homepage: https://github.com/MhdZiadHirati/foreground_work_manager
 
